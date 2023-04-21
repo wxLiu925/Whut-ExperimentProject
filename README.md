@@ -9,4 +9,4 @@
 ### 关于Pull Request
 欢迎同学们发起 Pull Request. 分享你的优秀作业内容
 
-Pull Requset 的时候, 您可以将相关代码/文本文档打包成压缩包, 尽量简洁不要包含 .git / .vs 等工程文件.
+Pull Requset 的时候, 尽量简洁, 不要包含 .git / .vs 等工程文件.
