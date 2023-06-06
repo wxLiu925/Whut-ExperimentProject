@@ -77,7 +77,7 @@ int main() {
         for(int i = 0; i < (int)ans.size(); i ++) {
             std::cout << ans[i] << " \n"[i == (int)ans.size() - 1];
         }
-
+        /*
         // 误差分析, 取二范数
         double eps = 0.0;
         // 对于这个例子的正确答案
@@ -87,6 +87,7 @@ int main() {
         }
         eps = sqrt(eps);
         std::cout << "误差为(2范): " << std::fixed << std::setprecision(16) << eps << std::endl; // 输出精度 保留16位小数
+        */
     } else if(result == 1) {
         std::cout << "方程组有无穷多组解！" << std::endl;
     } else {
