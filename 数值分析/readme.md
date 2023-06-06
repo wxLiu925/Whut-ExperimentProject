@@ -10,5 +10,6 @@
 + 最小二乘拟合一次多项式(FIT.cpp)
 + 辛普森积分法(simpson.cpp)
 + 自适应辛普森积分法(simpson_asr.cpp)
++ 列主元高斯消去法解线性方程组(Guess.cpp)
 
 持续更新
